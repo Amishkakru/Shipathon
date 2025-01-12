@@ -1,0 +1,104 @@
+Date: 2024-11-08 10:06:12
+Caption: Let QC ∪ MathSoc bring you Sine of the Times—where logic and maths intersect the quizzing dimension. 🧠✨
+
+Prepare to navigate ancient mathematical mysteries, unlock the secrets of prime numbers, and trace the paths of legendary theorems. This quiz isn’t just about finding answers—it’s about exploring the hidden stories behind the numbers, discovering unexpected patterns, and transforming your thinking, theorem by theorem, until you uncover the ultimate solution.
+
+Are you in the probability distribution of champions, or just a random variable? Test your odds and see if you fall within the confidence interval of top solvers! 🧠📐
+
+📅 9th November
+🕒 3:00 - 7:00 PM
+📍 LH316
+
+Join us in teams of three if you're willing to take this quiz experiment to see where you stand on the bell curve of quizzing and math mastery!
+
+Quiz Masters: Kartik Gulia & Lohith Alladi 
+📞 Contact: Gulia - 98681 49674
+
+Date: 2024-10-27 12:16:29
+Caption: Continuing our exploration of intriguing concepts in mathematics, we’re excited to invite you to the next talk in our series! 🎉 This session takes us into the intersection of mathematics and quantum mechanics, offering insight into the fascinating world of Mutually Unbiased Bases (MUBs) and their applications. Whether you’re drawn to quantum theory or just curious about the structure of quantum tests, this talk promises to be an enlightening experience! 📊
+
+*Topic*: An Introductory Look into Mutually Unbiased Bases
+*Speaker*: Uditanshu Sadual
+
+*Abstract*:
+In quantum mechanics, two tests are considered complementary if the outcome of one reveals no information about the other. This idea is formalised through mutually unbiased bases (MUBs). For a complex space of dimension , constructing a complete set of MUBs is possible only when  is a prime power. For composite dimensions that do not fit this form, full sets of MUBs remain elusive. To address this gap, researchers develop approximate versions (AMUBs). In this talk, we’ll explore the properties and applications of MUBs, including their roles in Optimal State Determination, Entropic Uncertainty measures, and Entanglement properties. We’ll also discuss how projective and unitary design features of MUBs help us gauge how closely AMUBs approximate true MUBs.
+
+*About the Speaker*
+@uditanshu_sadual is a 2nd-year MSc Mathematics student with a keen interest in Number Theory, Algebra, and Topology—but he’s easily tempted by an array of other topics too. His talk is inspired by his summer internship at ISI Kolkata, where he worked under Prof. Subhamoy Maitra in Quantum Cryptography. Outside academia, you’ll often find him dancing or playing the flute, and he’s quite active on Instagram as well!
+
+🗓 *Date*: 30/10/2024
+📍 *Venue*: MZ195, Mathematics Department Committee Room
+⏰ *Time*: 2-3 pm
+
+For queries, contact:
+Maalav - 8866002037
+
+Date: 2024-10-21 17:31:16
+Caption: We are excited to introduce a new lecture Talks Series that will explore a variety of fascinating topics in mathematics! 🎉 This initiative aims to bring together enthusiasts to delve into innovative ideas and research findings that shape the mathematical landscape. 📊
+
+First Talk: Using Sperner's Lemma to Bridge the Divide 
+Speaker: Salil Gokhale
+
+Abstract: The Rent Division Problem poses a practical question: given n housemates and a n-bedroom house with a fixed rent, how can we assign rooms and divide the rent in a way that ensures everyone is "satisfied"? 
+In this talk we will explore an elegant solution to this and related problems in Fair Divison using Sperner's Lemma, a seemingly unrelated combinatorial result.
+
+About the Speaker
+Salil is a final year undergraduate student in the Mathematics Department. He enjoys working on design and analysis of algorithms for combinatorial settings. In particular, he has worked on Fair Division and Stable Matchings before, which are problems at the intersection of Computer Science and Economics. In his free time, he likes to attend non-academic quizzes happening in Delhi.
+
+🗓 Date: 23/10/2024
+📍 Venue: MZ195, Mathematics Department Committee Room 
+⏰ Time: 2-3pm
+
+Join us for this engaging discussion that bridges mathematical theory with practical applications! Discover how combinatorial principles can lead to innovative solutions in everyday challenges. Don't miss out! 🌟
+
+For queries contact:
+Maalav- 8866002037
+
+Date: 2024-10-15 09:29:59
+Caption: Hello x :x ∈ (IIT Delhi :) )
+MathSoc presents our first event of this academic year...Poker Tournament!! Poker: The art of calculating odds while pretending you don’t have a clue. Where bluffing is a function and winning is the limit! The first round, conducted online, saw over 200 participants entering the fray, each optimizing their strategies to advance. 
+From this impressive pool, 20 elite players advanced to the high-stakes second round, held in the LHC across three intense poker tables.
+After complex calculations of probability, bluffing functions and game theory in action these folks emerged as the ultimate champions:-
+
+1) Shaurya Tyagi @shaurya_tyagii
+2) Vatsal Malav @vatsalm47
+3) Tanish Kumar @tanisshhh28
+
+#MathSocEvents # MathEnthusiasts #pokertournament
+
+Date: 2024-10-13 08:13:58
+Caption: ✨ We rolled out the red carpet for our newest batch of postgraduate students at an unforgettable Freshers' Welcome Party! 🎉 The evening was a grand celebration of new beginnings—from powerful speeches that ignited inspiration, to ice-breaking games that sparked laughter and camaraderie. The dance floor was on fire, and the room echoed with joy as lifelong friendships were born. 
+
+We are beyond thrilled to watch these brilliant minds embark on their academic journey, where limitless potential meets boundless opportunity. This is the start of something extraordinary—where groundbreaking research, innovation, and collaboration will pave the way for remarkable success. 🚀💡 
+
+Here's to new challenges, exciting discoveries, and a future filled with unimaginable achievements. You are the future, and the best is yet to come! 🌟 Dream big, work hard, and let nothing hold you back.
+
+#Freshers2024 #AcademicExcellence #PGJourney #NewBeginnings #LimitlessPotential #InspirationAndInnovation #UnstoppableTogether #BrightFutures #DreamBig #iitdelhi
+
+Date: 2024-10-11 11:39:56
+Caption: Da Vinci Derivatives, one of the world's leading proprietary trading house, is coming to IIT Delhi for an electrifying Pre-placement Talk session! 
+
+Get ready to dive deep into the world of trading, discover what life as a trader is really like, and get a chance to interact with IIT Delhi alumni. And that's not all — gear up for a thrilling market-making game with incredible prizes up for grabs! 
+
+📅 Date: 19th October
+⏰ Time: 2 PM - 4 PM
+
+*This event is exclusively open to IIT Delhi students currently enrolled in a B.Tech or Dual Degree program.
+
+Venue to be announced soon.
+
+Don't miss out on this opportunity to gain insights and take your step towards an exciting career in trading! See you there! 😊
+
+Date: 2024-10-07 06:25:04
+Caption: Gear up for the ultimate showdown of calculus at  IIT Delhi's qualifying round for *Inter IIT Integration Bee Competition*
+
+Solve mind-bending integrals in a race against time and compete with some of the sharpest minds on campus to get a chance to represent IIT Delhi at Inter IIT Integration Bee to be held at IISc Bangalore.
+After an online round, top 16 will get a chance to showcase their problem-solving skills, learn new techniques, and rise to the top. Prizes, prestige, and plenty of math await—register now and be part of this exciting mathematical journey📚✨!
+
+Dates:
+Prelims- 18th October
+Campus finals- 19th October
+Open for students from all departments!
+Kindly join the group for further information:
+linktr.ee/mathsociitd
+
